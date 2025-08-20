@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Banner](/lromarubi.github.io/images/welcomepagebanner.png)
+![Banner](images/welcomepagebanner.png)
 
 Hello!  
 I am an undergraduate researcher at UC Berkeley’s [Department of Mechanical Engineering](https://me.berkeley.edu/) and NASA’s [Jet Propulsion Laboratory](https://www.jpl.nasa.gov/). I am majoring in Aerospace Engineering and Astrophysics, and I am broadly interested in aerospace structures, metamaterials, and deployable systems. I am excited about the prospect of creating lightweight and adaptive structural architectures that can absorb energy, dampen vibrations, and operate reliably in the extreme environments of aerospace and space exploration.  
