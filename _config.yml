@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Leire Roma Rubi"
 title_separator          : "-"
 name                     : &name "Leire Roma Rubi"
-description              : &description "Student Researcher in Physical Cosmology and Machine Intelligence"
+description              : &description "Student Researcher in Aerospace Engineering and Astrophysics"
 url                      : https://leireroma.github.io/lromarubi.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leireroma/lromarubi.github.io"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Leire Roma Rubi"
   avatar           : "profile2.png"
-  bio              : "Student-Researcher in Aeros"
+  bio              : "Student-Researcher in Aerospace Engineering and Astrophysics"
   location         : Berkeley, California
   employer         : 
   pubmed           :
