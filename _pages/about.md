@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<meta name="google-site-verification" content="IKWcumIqjiwixMwKcvKIPQm74rjGRsKYL7-2aUKf-14" />
-
 ![Banner](/images/welcomepagebanner.png)
 
 Hello!  
