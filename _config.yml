@@ -84,15 +84,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cooper Jacobus"
-  avatar           : "profile.png"
-  bio              : "Student-Researcher <br> in Physical Cosmology <br> and Machine Intelligence"
+  name             : "Leire Roma Rubi"
+  avatar           : "profile2.png"
+  bio              : "Student-Researcher"
   location         : Berkeley, California
   employer         : 
   pubmed           :
   orcid            : "http://orcid.org/0000-0002-0498-2019"
   googlescholar    : #"https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "cjacobus@berkeley.edu"
+  email            : "leire.roma@berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,11 +101,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "c-jacobus"
+  github           : "leireroma"
   gitlab           : 
   google_plus      :
   keybase          :
-  instagram        : "cooper_jacobus"
+  instagram        : "leireroma"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "cooper-jacobus-b85436168"
