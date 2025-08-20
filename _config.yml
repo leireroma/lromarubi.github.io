@@ -86,14 +86,14 @@ analytics:
 author:
   name             : "Leire Roma Rubi"
   avatar           : "profile2.png"
-  bio              : "Student-Researcher"
+  bio              : "Student-Researcher in Aeros"
   location         : Berkeley, California
   employer         : 
   pubmed           :
-  orcid            : "http://orcid.org/0000-0002-0498-2019"
-  googlescholar    : #"https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
+  orcid            : # "http://orcid.org/0000-0002-0498-2019"
+  googlescholar    : "https://scholar.google.com/citations?user=rGlQ6NgAAAAJ&hl=en&oi=sra"
   email            : "leire.roma@berkeley.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Leire-Roma-Rubi?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -108,7 +108,7 @@ author:
   instagram        : "leireroma"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "cooper-jacobus-b85436168"
+  linkedin         : "leireroma"
   mastodon         : 
   pinterest        :
   soundcloud       :
@@ -119,7 +119,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/@cooper-jacobus"
+  youtube          : #"https://www.youtube.com/@cooper-jacobus"
   wikipedia        :
 
 
