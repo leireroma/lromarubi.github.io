@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cooper Jacobus"
+title                    : "Leire Roma Rubi"
 title_separator          : "-"
-name                     : &name "Cooper H Jacobus"
+name                     : &name "Leire Roma Rubi"
 description              : &description "Student Researcher in Physical Cosmology and Machine Intelligence"
 url                      : https://c-jacobus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
