@@ -11,13 +11,15 @@ redirect_from:
 
 ![Banner](/images/Banner.png)
 
-Hello!
-I am an undergraduate researcher at UC Berkeley's [Department of Astronomy](https://astro.berkeley.edu/) and Lawrence Berkeley Lab's [Center for Computational Cosmology]([https://crd.lbl.gov/divisions/scidata/c3/](https://crd.lbl.gov/divisions/scidata/c3/c3-people/cooper-jacobus/)). I am interested in Computational Physics, the Large Scale Structure of the Cosmos, and the Philosophy of Physics. I am excited about the prospect of understanding the nature of Intelligence and the origin of the Cosmos. As an undergrad at Berkeley I persue these interests through the [Major in Astrophysics](http://kartp.astro.berkeley.edu/lib/exe/fetch.php?media=curriculum:undergrad_info_for_web.pdf) studying Cosmology, Bayesian Analysis, and Fluid Mechanics and through the [Minor in Mathematical Logic](https://guide.berkeley.edu/undergraduate/degree-programs/logic/logic.pdf) studying provability, incompleteness, and quantum computing.
+Hello!  
+I am an undergraduate researcher at UC Berkeley’s [Department of Mechanical Engineering](https://me.berkeley.edu/) and NASA’s [Jet Propulsion Laboratory](https://www.jpl.nasa.gov/). I am majoring in **Aerospace Engineering and Astrophysics**, and I am broadly interested in **aerospace structures, metamaterials, and deployable systems**. I am excited about the prospect of creating lightweight and adaptive structural architectures that can absorb energy, dampen vibrations, and operate reliably in the extreme environments of aerospace and space exploration.  
 
-Basically, I am excited about problems having to do with these two (related!) questions: 'In what ways is the Universe like a Computer?' and 'In what ways is a Computer like a Brain?' For instance, a question I've been pursuing for the past few years is 'How can we construct a *Neural Algorithm* that accurately captures and reconstructs the physics that sculps the Cosmos?'
+As an undergrad at Berkeley, I pursue these interests through my research on **tensegrity lattices and metamaterials**, combining [finite element modeling](https://www.ansys.com/products/structures/ansys-mechanical) and experimental testing with **machine learning–based optimization** to identify designs with enhanced energy absorption and stability. At NASA’s Jet Propulsion Laboratory, I apply these structural concepts to **planetary robotics**, working on [deployable mechanisms and sampling systems](https://www.jpl.nasa.gov/missions) for the upcoming **Endurance rover mission**.  
 
-I am honored to be financially supported by the Goldwater and NASA Astronaut Scholarships as well as the UC Berkeley Leadership Award. 
+Basically, I am excited about problems having to do with these two (related!) questions: *“In what ways can we design aerospace structures that are simultaneously lightweight and resilient?”* and *“In what ways can adaptive architectures transform the way we explore space?”* For instance, a question I’ve been pursuing is *“How can tensegrity lattices, metamaterials, and deployable systems be engineered to absorb energy, dampen vibrations, and perform reliably under the demanding conditions of flight and planetary exploration?”*  
 
-In my (limited) free time I enjoy hiking, traveling, and volunteering as a teacher.
+I am honored to be supported by the **NASA JPL Education Office** through the [Visiting Student Research Program](https://www.jpl.nasa.gov/edu/internships/), as well as by awards including the **CITRIS Aviation Prize** and the **Berkeley Mentorship Cohort Fellowship**.  
+
+In my (limited) free time, I enjoy mentoring students in engineering, swimming competitively water polo, and volunteering as a piano teacher.  
 
 ![Photo_Banner](/images/Photo_Banner.png)
